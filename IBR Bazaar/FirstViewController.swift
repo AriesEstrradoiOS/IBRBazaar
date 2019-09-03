@@ -8,15 +8,15 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class Home: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let storyBoard = UIStoryboard(name: "Home", bundle: nil)
-        let controller = storyBoard.instantiateViewController(withIdentifier: "Home")
-        addChild(controller)
-        view.addSubview(controller.view)
-        controller.didMove(toParent: controller)
+//        let storyBoard = UIStoryboard(name: "Home", bundle: nil)
+//        let controller = storyBoard.instantiateViewController(withIdentifier: "Home")
+//        addChild(controller)
+//        view.addSubview(controller.view)
+//        controller.didMove(toParent: controller)
     }
 
 

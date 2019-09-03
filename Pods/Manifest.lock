@@ -1,3 +1,44 @@
-PODFILE CHECKSUM: a25277f2f69cea2051cd3dab23a9641a9030e7e3
+PODS:
+  - Alamofire (4.7.2)
+  - Cosmos (16.0.0)
+  - ImageSlideshow (1.6.1):
+    - ImageSlideshow/Core (= 1.6.1)
+  - ImageSlideshow/Core (1.6.1)
+  - IQKeyboardManagerSwift (6.0.4)
+  - PKHUD (5.1.0)
+  - SDWebImage (4.4.1):
+    - SDWebImage/Core (= 4.4.1)
+  - SDWebImage/Core (4.4.1)
+  - SkyFloatingLabelTextField (3.5.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos
+  - ImageSlideshow
+  - IQKeyboardManagerSwift
+  - PKHUD
+  - SDWebImage
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Cosmos
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - PKHUD
+    - SDWebImage
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  Cosmos: 7bcee0fa858a9355a214f2a181be5dffcee42c81
+  ImageSlideshow: f0f33e1a20668e83d77f5fb7729e4ae4437c0759
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  PKHUD: 62ea46a1e88c4def1da784878d199bb54c841e3c
+  SDWebImage: 47e9b5b925cbce75946c23f0c42dd19464189af4
+  SkyFloatingLabelTextField: 4cbeece9c3aae97c6019d8fae511cb5b755874f7
+
+PODFILE CHECKSUM: 4ba1037f3f20c6136a4e5af236d0bf667d5ce6dc
 
 COCOAPODS: 1.5.0

@@ -6,6 +6,16 @@ target 'IBR Bazaar' do
   use_frameworks!
 
   # Pods for IBR Bazaar
+  
+  pod 'SkyFloatingLabelTextField'
+  pod 'IQKeyboardManagerSwift'
+  pod 'ImageSlideshow'
+  pod 'SkyFloatingLabelTextField'
+  pod 'Cosmos'
+  pod 'Alamofire'
+  pod 'PKHUD'
+  pod 'SDWebImage'
+  
 
   target 'IBR BazaarTests' do
     inherit! :search_paths
